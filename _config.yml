@@ -2,15 +2,3 @@ remote_theme: brandenespinoza/startbootstrap-resume
 # remote_theme: Huxpro/huxpro.github.io
 # remote_theme: just-the-docs/just-the-docs
 # remote_theme: davidtmiller/davidtmiller-website
-title:         Branden Espinoza
-description:   The official website of Branden Espinoza, digital asset product wizard
-baseurl:       ""
-url:           ""
-
-# Build settings
-markdown:      kramdown
-paginate:      5
-paginate_path: "/posts/page:num/"
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
