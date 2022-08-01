@@ -1,7 +1,7 @@
-# remote_theme: StartBootstrap/startbootstrap-resume
+remote_theme: brandenespinoza/startbootstrap-resume
 # remote_theme: Huxpro/huxpro.github.io
 # remote_theme: just-the-docs/just-the-docs
-remote_theme: davidtmiller/davidtmiller-website
+# remote_theme: davidtmiller/davidtmiller-website
 title:         Branden Espinoza
 description:   The official website of Branden Espinoza, digital asset product wizard
 baseurl:       ""
