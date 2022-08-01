@@ -1,2 +1,4 @@
 # remote-theme: StartBootstrap/startbootstrap-resume
 remote_theme: benbalter/retlab
+
+theme: jekyll-theme-tactile
