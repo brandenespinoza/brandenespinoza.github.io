@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+<!-- Masthead -->
+<header class="masthead bg-dark" data-midnight="white">
+
+  <div class="container-fluid px-5">
+    <!-- Page Heading -->
+    <h1 class="text-white mb-0" id="pageHeading">Branden Espinoza</h1>
+    <!-- Page Subheading -->
+    <h2 class="text-white mb-0" id="pageSubheading">
+      Product Wizard
+      <span class="text-primary">·</span>
+      Fintech Rogue
+    </h2>
+    <!-- Social Links -->
+    <ul class="list-inline mt-5 mb-0">
+      <li class="list-inline-item mr-4">
+        <a class="link-social" href="https://twitter.com/brandenespinoza">
+          <span class="icon-social-twitter"></span>
+        </a>
+      </li>
+      <li class="list-inline-item mr-4">
+        <a class="link-social" href="https://github.com/brandenespinoza">
+          <span class="icon-social-github"></span>
+        </a>
+      </li>
+      <li class="list-inline-item mr-4">
+        <a class="link-social" href="https://www.instagram.com/brandenespinoza">
+          <span class="icon-social-instagram"></span>
+        </a>
+      </li>
+      <li class="list-inline-item">
+        <a class="link-social" href="mailto:espin.brand@protonmail.com">
+          <span class="icon-envelope"></span>
+        </a>
+      </li>
+    </ul>
+    <!-- End of Social Links -->
+  </div>
+
+</header>
+
+<main class="post-list bg-white">
+  <div class="container-fluid px-5">
+    <div class="row m-0">
+      <div class="col-md-9 col-lg-6 p-0">
+
+        {% for post in site.posts limit: 5 %}
+
+        <article class="post-list-item">
+          <a class="post-list-link" href="{{ post.url }}">
+            <h3>{{ post.title }}</h3>
+            <p class="mb-0">{{ post.excerpt | strip_html | truncatewords:50 }}</p>
+          </a>
+        </article>
+
+        {% endfor %}
+
+      </div>
+    </div>
+  </div>
+</main>
+
+<a class="page-bottom-link px-5 py-3" href="/posts">View All Posts</a>
