@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+{% include header.html %}
+
+<article>
+
+ {{ content }}
+
+</article>
+
+<div class="post-pagination mb-5">
+  <div class="container-fluid px-5">
+    <div class="row">
+      <div class="col-md-9 col-lg-6">
+        <div class="row">
+          <div class="col-6 mr-auto text-left">
+            {% if page.previous.url %}
+            <a class="post-pagination-link" href="{{ page.previous.url }}">
+              <span class="post-pagination-header">Previous Post</span>
+              {{ page.previous.title }}
+            </a>
+            {% endif %}
+          </div>
+          <div class="col-6 text-right">
+            {% if page.next.url %}
+            <a class="post-pagination-link" href="{{ page.next.url }}">
+              <span class="post-pagination-header">Next Post</span>
+              {{ page.next.title }}
+            </a>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<a class="page-bottom-link px-5 py-3" href="/">Return to Home</a>
