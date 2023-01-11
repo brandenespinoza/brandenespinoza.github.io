@@ -1,13 +1,4 @@
-# Site settings
-title: Branden Espinoza's Resources
-tag_text: Branden Espinoza's Resources
-description: A collection of resources I have found helpful. 
-url: "https://www.brandenespinoza.com" # base URL for your site ie. "https://www.example.com"
-baseurl: "" # subpath for base of site, leave blank if hosting at root
-
-font-awesome-include: true # make this false if you don't need font-awesome
-
-# Build settings
-markdown: kramdown
-
-exclude: ["README.md"]
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "academic" # the name of your site, e.g. ACME Corp.
+description: "a Jekyll theme for academia"
