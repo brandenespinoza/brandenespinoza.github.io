@@ -19,7 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Branden Espinoza
+tagline: 'Branden Espinoza'
 author: Branden Espinoza
+name: 'Branden Espinoza
 email: espin.brand@protonmail.com
 description: >
   Resource site for Branden Espinoza. 
@@ -28,56 +30,40 @@ url: "https://www.brandenespinoza.com" # the base hostname & protocol for your s
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
-remote_theme: sighingnow/jekyll-gitbook
+# remote_theme: sighingnow/jekyll-gitbook
+remote_theme: fongandrew/hydeout
+
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
+
+baseurl:          ''
+                  # the optional subpath of your site, e.g. "/blog"
+                  # NB: This applies to all pages in your Jekyll site.
+                  # If you want to move just the blog index pages but keep
+                  # other pages at root, see the paginate_path and
+                  # sidebar_blog_link below.
+
+author:
+
+
+paginate:         5
+# paginate_path:    '/page:num'
+                    # Or '/blog/page:num' if you want to move your index pages
+
 plugins:
   - jekyll-feed
-  - jekyll-readme-index
-  - jemoji
+  - jekyll-gist
+  - jekyll-paginate
 
-toc:
-  enabled: true
-  h_min: 1
-  h_max: 3
-
-# social
-twitter_username: brandenespinoza
-github_username:  brandenespinoza
-
-# customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
-favicon_path:     /assets/gitbook/images/favicon.ico
-
-# markdown render engine.
-markdown:         kramdown
-kramdown:
-  auto_ids:               true
-  input:                  GFM
-  math_engine:            mathjax
-  smart_quotes:           lsquo,rsquo,ldquo,rdquo
-  toc_levels:             1..6
-  syntax_highlighter:     rouge
-  syntax_highlighter_opts:
-    guess_lang:           true
-
-syntax_highlighter_style: colorful
-
-markdown_ext:     markdown,mkdown,mkdn,mkd,md
-
-# Permalinks
-permalink:        /:categories/:year-:month-:day-:title:output_ext
-
-exclude:
-  - _drafts
-
-collections:
-  pages:
-    output: true
-    permalink: /:collection/:path/
-
-page_width: 800px
-
-destination:      ./_site
-incremental:      false
-regenerate:       true
+# Sidebar link settings
+sidebar_home_link:  true
+# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+                                # page. If you change your paginate_path,
+                                # set this to the root of the paginate_path
+                                # to enable a separate blog link.
 
 
 
