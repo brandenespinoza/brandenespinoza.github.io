@@ -1,4 +1,0 @@
----
-layout: bitcoin
-title: "Bitcoin"
----
