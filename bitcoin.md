@@ -13,7 +13,7 @@ Bitcoin is money that can't be copied, censored, or confiscated. It is controlle
 - [Bitbox02 Bitcoin Edition](https://shiftcrypto.ch/bitbox02/bitcoin-only/) - For beginners.
 - [Ledger Nano S+](https://shop.ledger.com/products/ledger-nano-s-plus) - Very common. Not Bitcoin Only.
 
-# Nodes, Node Packages & Personal Servers
+# Nodes & Node Packages
 - [Bitcoin Core](https://bitcoin.org/en/bitcoin-core/) - The OG reference client.
 - [Raspibolt](https://raspibolt.org/) - A step-by-step DIY tutorial.  
 - [Umbrel](https://umbrel.com/) - Personal server on Rasbperry Pi.
