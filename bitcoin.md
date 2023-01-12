@@ -3,121 +3,19 @@ layout:    page
 title:     Bitcoin Resources
 permalink: /bitcoin/
 ---
+Bitcoin is money that can't be copied, censored, or confiscated. It is controlled by no one. It is global.  And it is changing **everything**.
 
-# Articles
+Below is a highly currated set of resources and tools that I find useful as I continue to tumble down this bottomless rabbit hole. My advice is earnestly strive to learn about bitcoin. If you *think* you have a decent understanding, you probably don't. Learn everything you can.  Bitcoin is a call to personal responsibility, as such, it is unforgiving.  With time, and with dedicated study, you will become very comfortable transacting in and safely protecting your bitcoin. 
 
+> Stay humble and stack sats. - Matt Odell
 
 # Tools
-## Visualization Tools
+## Visualization
 - [Bitlisten](http://bitlisten.com)
-- [Utxo.live](http://utxo.live)
+- [UTXO Live](http://utxo.live)
+- [Transaction Street](https://txstreet.com/v/btc)
 - [Bitfeed](https://bits.monospace.live/)
+
+## Block Explorers
 - [Mempool.space](https://mempool.space/)
-## Block Explorer Tools
-- [Bitlisten](http://bitlisten.com)
-- [Utxo.live](http://utxo.live)
-- [Bitfeed](https://bits.monospace.live/)
-- [Mempool.space](https://mempool.space/)
-
-
-
-
-Vida is a simple and beautiful jekyll theme, it has only the essential functions
-so that you can concentrate on the content of your blog.
-
-First of all, let's have a glance at the basic styles: [link](http://github.com/syaning/vida),
-**strong**, *italic*, <del>deletion</del>, <ins>insertion</ins>.
-
-### Headers:
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-
-### Lists:
-
-- list item 1
-- list item 2
-- list item 3
-
-1. list item 1
-2. list item 2
-3. list item 3
-
-### Blockquote:
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### [BASSCSS](http://www.basscss.com/) colors:
-
-- <span class="black">black</span>
-- <span class="gray">gray</span>
-- <span class="silver">silver</span>
-- <span class="white">white</span>
-- <span class="aqua">aqua</span>
-- <span class="blue">blue</span>
-- <span class="navy">navy</span>
-- <span class="teal">teal</span>
-- <span class="green">green</span>
-- <span class="olive">olive</span>
-- <span class="lime">lime</span>
-- <span class="yellow">yellow</span>
-- <span class="orange">orange</span>
-- <span class="red">red</span>
-- <span class="fuchsia">fuchsia</span>
-- <span class="purple">purple</span>
-- <span class="maroon">maroon</span>
-
-### Horizontal rule:
-
------------------------
-
-### Image:
-
-![](/vida/images/image.jpg)
-
-### Table:
-
-<table>
-    <thead>
-        <tr>
-            <th>Name</th>
-            <th>Age</th>
-            <th>Fruit</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Alex</td>
-            <td>22</td>
-            <td>Apple</td>
-        </tr>
-        <tr>
-            <td>Bran</td>
-            <td>20</td>
-            <td>Orange</td>
-        </tr>
-        <tr>
-            <td>Mike</td>
-            <td>21</td>
-            <td>Waltermelon</td>
-        </tr>
-    </tbody>
-</table>
-
-### Code snippet
-
-```javascript
-// index.js
-var arr = [1, 2, 3, 4, 5];
-var b = arr.map(x => x * x);
-console.log(b);
-```
+- [Blockstream Explorer](https://blockstream.info/)
