@@ -19,3 +19,16 @@ Below is a highly currated set of resources and tools that I find useful as I co
 ## Block Explorers
 - [Mempool.space](https://mempool.space/)
 - [Blockstream Explorer](https://blockstream.info/)
+
+## Wallets
+### Mobile Hot Wallets
+- [Muun Wallet](https://muun.com/) - Hands down the simplest, non-custodial on-chain AND lightning wallet. However, it is not yet LNURL Auth compatible.
+- [Blue Wallet](https://bluewallet.io/) - CAUTION: Lighting on Blue Wallet is custodial.  I include it here because it is LNURL Auth compatible. 
+
+### Desktop Wallets
+- [Sparrow Wallet](https://sparrowwallet.com/)
+
+### Cold Storage Hardware Wallets
+- [ColdCard](https://coldcard.com/) - For power users.  
+- [Bitbox02 Bitcoin Edition](https://shiftcrypto.ch/bitbox02/bitcoin-only/) - For beginners.
+- [Ledger Nano S+](https://shop.ledger.com/products/ledger-nano-s-plus) - Very common. I generally don't recommend it because it is not Bitcoin Only. However, it is very common. 
