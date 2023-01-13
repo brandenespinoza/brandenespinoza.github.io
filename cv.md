@@ -33,10 +33,8 @@ Jan 2021 – Present; >300 employees; Digital Asset/Cryptocurrency Industry; Gra
 - Managed design and development of digital asset pricing oracle (i.e. Digital Asset Indices product). 
 - Maintained expert level domain knowledge while tracking ongoing advancements to industry and supported assets.
 
-**Senior Technical Project Manager**
-
-**OMNI Omnichannel Commerce Inc**
-
+**Senior Technical Project Manager**<br/>
+**OMNI Omnichannel Commerce Inc**<br/>
 Oct 2019 – Oct 2020; 25-30 employees; Ecommerce Global System Integrator Industry; Remote
 - Managed portfolio of omnichannel ecommerce replatforming integration projects.
 - Founded the agency’s Project Management Office.
