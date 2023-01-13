@@ -10,6 +10,7 @@ EOS is a beautiful mess right now. The conversations swirling around Constitutio
 Like all things political, though, there is no single solution that can satisfy the vision of all users. And that’s just it, there’s no SINGLE solution that can satisfy everyone. But this is the age of blockchain. Why in the world are we married to the idea of just one solution? We all believe monopolies are bad, so why are we hell-bent on building a solution that monopolizes the EOS legal framework?
 
 **Polycentric Law**
+
 Polycentric law is a framework in which multiple legal systems (i.e. constitutions/user agreements) exist in parallel and compete within a given jurisdiction. While the name is relatively new, the concept is as old as Rome, where Roman citizens were governed by one set of rules, but Rome’s non-Roman subjects were permitted to retain their native legal constructs.
 
 I am a member of a fraternity. I am a member of a church. I am an employee. I am a son. I am a husband. I am a father. Each of these constructs have different sets of rules of behavior, some explicit, others implicit, that I use to govern my actions while interacting with other members of that group. The range of acceptable behavior expands and contracts based on the parties with whom I am interacting and the rules they too have voluntarily chosen to accept.
@@ -21,6 +22,7 @@ The rule-sets we follow change as we move from one human interaction to another.
 The fact that humans are so good at seamlessly switching from one rule-set to another informs how we should design our blockchain governance.
 
 **Competing Governing Paradigms in EOS**
+
 As I mentioned, the discussions about Constitutions/User Agreements that are currently dominating the EOS landscape are going to continue. There are currently 3–4 proposed versions of a Constitution, each vying for support. Everyone is convinced that some form of direct democracy is what is needed to solve EOS’ problems.
 
 Democracy, majority rule, even super majority rule, has not proven to be all that good at protecting the little guy, and in a DPOS framework, there are a LOT of little guys.
