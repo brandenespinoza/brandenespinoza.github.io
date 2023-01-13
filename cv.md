@@ -18,7 +18,7 @@ I’ve supported global foreign exchange product launches; produced regulatory c
 # Experience
 
 **Senior Product Manager, Digital Assets**
-**Bullish.com (a block.one company)**
+**Bullish.com (a block.one company)**<br/>
 Jan 2021 – Present; >300 employees; Digital Asset/Cryptocurrency Industry; Grand Cayman & Remote
 - Architected end-to-end listing process for vetting digital assets to be integrated on the exchange.
 - Co-authored formal governance policies relating to the listing and maintenance of exchange supported digital assets.
