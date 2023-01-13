@@ -46,7 +46,7 @@ The non-addict who engages in risky behavior is doing so to satisfy his or her m
 
 A master of the science of human action once said:
 
-> It is a fact that human reason is not infallible and that man very often errs in selecting and applying means. An action unsuited to the end sought… is rational, i.e., the outcome of a reasonable–although faulty–deliberation and an attempt–although an ineffectual attempt–to attain a definite goal.
+> It is a fact that human reason is not infallible and that man very often errs in selecting and applying means. An action unsuited to the end sought… is rational, i.e., the outcome of a reasonable–although faulty–deliberation and an attempt–although an ineffectual attempt–to attain a definite goal.<sup>1</sup>
 
 A person who engages in risky, habit-forming behavior is acting rationally. They perceive uneasiness and are attempting to satisfy that uneasiness.  That the behavior may not actually satisfy it is irrelevant.
 
@@ -75,3 +75,7 @@ When a mom catches her 12 year-old son looking at pornography, she could launch 
 When a friend sees his best friend drinking to excess,  he could call is friend an idiot, tell him to sober up, or join some 12-Step program.  Or he could, look his friend in the eye and say, “Do you have any clue how important you are to me?  You’re my friend. I know you know the bottle is dangerous, and I don’t want to lose you. What’s bothering you, man?  I get the sense that something is hurting.” He should ooze brotherly love (unfortunately our culture has nearly exterminated this). He should open himself up completely and really love his friend.
 
 Connection, love, and vulnerability are the antidote. They are prerequisite to any real lasting influence.  Again.  Let’s not call it addiction.
+
+---
+
+<sup>1</sup>Mises, Ludwig von. *Human Action: A Treatise on Economics*. Ludwig Von Mises Institute, 2008. 
