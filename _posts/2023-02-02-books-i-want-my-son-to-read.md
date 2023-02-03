@@ -6,7 +6,9 @@ categories: tradition
 ---
 
 ---
+
 <div style="text-align:center"><span class="red">This list is a work in progress. I expect much to be added and some to be removed.</span></div>
+
 ---
 
 ## Elementary School Years
