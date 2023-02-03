@@ -12,10 +12,10 @@ categories: tradition
 ---
 
 ## Elementary School Years
-* [There's No Such Thing as a Dragon](https://www.amazon.com/Theres-No-Such-Thing-Dragon/dp/0375851372) by Jack Kent - Don't ignore your problems, they'll only get bigger. Dragons guard that which we want most.  
+* **[There's No Such Thing as a Dragon](https://www.amazon.com/Theres-No-Such-Thing-Dragon/dp/0375851372) by Jack Kent** - Don't ignore your problems, they'll only get bigger. Dragons guard that which we want most.  
 
 ## Elementary School Years
-* [My Side of the Mountain by Jean George](https://www.amazon.com/Side-Mountain-Jean-Craighead-George/dp/0525463461/) - Do dangerous things, carefully.
+* [**My Side of the Mountain** by Jean George](https://www.amazon.com/Side-Mountain-Jean-Craighead-George/dp/0525463461/) - Do dangerous things, carefully.
 
 ## High School Years
 * [The Book of Mormon](https://www.gutenberg.org/ebooks/17) - More than any other book, it has shaped the family culture you have inherited. Also, it will make your mom happy if you do.
