@@ -16,7 +16,6 @@ Below is a currated set of references and resources I have found enlightening in
 
 ---
 
-## Resources
 ### Fatherhood & Masculinity
 - [12 Rules for Life: An Antidote to Chaos](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021) by Jordan B. Peterson
 
