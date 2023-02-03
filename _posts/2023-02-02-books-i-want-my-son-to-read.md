@@ -4,7 +4,10 @@ title:  Books I Hope My Son Will Read
 date:   2023-02-03 10:30:00
 categories: tradition
 ---
-<div style="text-align:center"><span class="blue">This list is a work in progress. I expect much to be added and some to be removed.</span></div>
+
+---
+<div style="text-align:center"><span class="red">This list is a work in progress. I expect much to be added and some to be removed.</span></div>
+---
 
 ## Elementary School Years
 * [There's No Such Thing as a Dragon](https://www.amazon.com/Theres-No-Such-Thing-Dragon/dp/0375851372) by Jack Kent - Don't ignore your problems, they'll only get bigger. Dragons guard that which we want most.  
@@ -20,7 +23,6 @@ categories: tradition
 ## College Years
 * [Human Action](https://www.amazon.com/Human-Action-Scholars-Ludwig-Mises) by Ludwig von Mises - The most significant book on the economics of liberty you will ever own. 
 * [The Book of Mormon](https://www.gutenberg.org/ebooks/17) - Again. This time with purpose. Find out if it is true.
-* 
 
 ## Family Building Years
 * [Parent Effectiveness Training](https://www.amazon.com/Parent-Effectiveness-Training-T-Responsible/dp/B001RMWAXK/) by Dr. Thomas Gordon - You're a rookie. We all are. 
