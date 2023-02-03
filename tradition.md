@@ -7,14 +7,14 @@ permalink: /tradition/
 
 Below is a currated set of references and resources I have found enlightening in my path to understanding the importance of traditional western paradigms, customs, and institutions in preserving and promoting the cause of human flourishing. As heirs of all that our ancestors were, it is our responsibility to ensure we do not discard, neither by casual circumstance nor calculated intent, the endowment of civilization. 
 
-# Resources
-## Fatherhood & Masculinity
-- **Book**: [12 Rules for Life: An Antidote to Chaos](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021) by Jordan B. Peterson
+## Resources
+### Fatherhood & Masculinity
+- [12 Rules for Life: An Antidote to Chaos](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021) by Jordan B. Peterson | Book
 
-## Motherhood & Femininity
-- **Blog**: [The Philosophy of Motherhood](https://philosophyofmotherhood.wordpress.com/)
+### Motherhood & Femininity
+- **Blog**: [The Philosophy of Motherhood](https://philosophyofmotherhood.wordpress.com/) | Blog
 
-# My Writings on Traditionalism
+## My Writings on Traditionalism
 
 <div>
   <ul class="posts">    
