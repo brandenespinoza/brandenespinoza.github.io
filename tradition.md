@@ -4,10 +4,11 @@ title:     Traditionalism
 permalink: /tradition/
 ---
 
+<br/>
 
+<div style="text-align:center"><span class="navy">"<strong>Tradition</strong> is not the worship of ashes, but the preservation of <strong>fire</strong>." - Gustav Mahler</span></div>
 
-<div style="text-align:center"><span class="blue">"**Tradition** is not the worship of ashes, but the preservation of fire." - **Gustav Mahler**</span></div>
-
+<br/>
 
 ---
 
