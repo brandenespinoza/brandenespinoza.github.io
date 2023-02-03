@@ -3,9 +3,14 @@ layout:    page
 title:     Traditionalism
 permalink: /tradition/
 ---
+
+---
+
 > **Tradition** is not the worship of ashes, but the preservation of fire. - **Gustav Mahler**
 
 Below is a currated set of references and resources I have found enlightening in my path to understanding the importance of traditional western paradigms, customs, and institutions in preserving and promoting the cause of human flourishing. As heirs of all that our ancestors were, it is our responsibility to ensure we do not discard, neither by casual circumstance nor calculated intent, the endowment of civilization. 
+
+---
 
 ## Resources
 ### Fatherhood & Masculinity
@@ -14,7 +19,8 @@ Below is a currated set of references and resources I have found enlightening in
 ### Motherhood & Femininity
 - [The Philosophy of Motherhood](https://philosophyofmotherhood.wordpress.com/)
 
-## My Writings on Traditionalism
+<br/><br/><br/><br/>
+## My Posts
 
 <div>
   <ul class="posts">    
