@@ -2,6 +2,7 @@
 layout: post
 title:  Styles for vida
 date:   2015-05-03 10:30:00
+categories: tradition
 ---
 
 Vida is a simple and beautiful jekyll theme, it has only the essential functions
