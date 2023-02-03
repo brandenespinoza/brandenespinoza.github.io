@@ -18,7 +18,7 @@ categories: tradition
 * [**My Side of the Mountain**](https://www.amazon.com/Side-Mountain-Jean-Craighead-George/dp/0525463461/) - Do dangerous things, carefully.
 
 ## High School Years
-* [**The Book of Mormon**](https://www.gutenberg.org/ebooks/17) - More than any other book, it has shaped the family culture you have inherited. Also, it will make your mom happy if you do.
+* [**The Book of Mormon**](https://www.gutenberg.org/ebooks/17) - The roots of the family culture you inherited. It will make your mom happy.
 * [**Atlas Shrugged**](https://www.amazon.com/Atlas-Shrugged-Centennial-Ed-Rand/dp/0525948929/) - Glorification of the best within us. Pride in producing.
 * [**The Odyssey**](https://www.gutenberg.org/ebooks/1727) - Leave home. Pursue glory. Come back. Redeem the fallen.
 
