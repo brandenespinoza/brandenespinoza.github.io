@@ -14,7 +14,7 @@ categories: tradition
 ## Elementary School Years
 * **[There's No Such Thing as a Dragon](https://www.amazon.com/Theres-No-Such-Thing-Dragon/dp/0375851372)** - Don't ignore your problems, they'll only get bigger. Dragons guard that which we want most.  
 
-## Elementary School Years
+## Middle School Years
 * [**My Side of the Mountain**](https://www.amazon.com/Side-Mountain-Jean-Craighead-George/dp/0525463461/) - Do dangerous things, carefully.
 
 ## High School Years
