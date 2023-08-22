@@ -8,7 +8,7 @@ Here's my reading list: a journey through tales, lessons, and lingering thoughts
 <div class="home">
    <h2>On Deck</h2>
       <ul class="posts">
-         <li><a href="#">Atlas Shrugged by Ayn Rand</a></li>
+         <li><span>EVENTUALLY</span><a href="#">Atlas Shrugged by Ayn Rand</a></li>
       </ul>
    <h2>In Progress</h2>
       <ul class="posts">
