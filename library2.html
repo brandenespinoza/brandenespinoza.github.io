@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+Here's my reading list: a journey through tales, lessons, and lingering thoughts. While some have left their mark, others simply passed the time. Either way, they're milestones on my path. Dive in to see what caught my eye or just what kept me company on a quiet night. It's a taste, a snapshot, of a broader journey through words.
 <div class="home">
    <h2>Articles</h2>
     <ul class="posts">
@@ -12,29 +12,17 @@ layout: default
     </ul>
 </div>
 
-
-
-
-# On Deck
-<ul>
-{% for post in site.posts %}
-{% if post.categories contains "book-review" %}
-{% if post.tags contains "in-progress" %}
-<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-{% endif %}
-{% endif %}
-{% endfor %}
+<div class="home">
+Here's my reading list: a journey through tales, lessons, and lingering thoughts. While some have left their mark, others simply passed the time. Either way, they're milestones on my path. Dive in to see what caught my eye or just what kept me company on a quiet night. It's a taste, a snapshot, of a broader journey through words.
+   <h2>On Deck</h2>
+      <ul class="posts">
+         {% for post in site.posts %}
+            {% if post.categories contains "book-review" %}
+               {% if post.tags contains "in-progress" %}
+                     <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+               {% endif %}
+               {% endif %}
+         {% endfor %}
 <li><a href="#">Atlas Shrugged by Ayn Rand</a></li>
 </ul>
-
-# Currently Reading
-<ul>
-{% for post in site.posts %}
-{% if post.categories contains "bookreview" %}
-{% if post.tags contains "inprogress" %}
-<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-{% endif %}
-{% endif %}
-{% endfor %}
-<li><a href="#">Atlas Shrugged by Ayn Rand</a></li>
-</ul>
+</div>
