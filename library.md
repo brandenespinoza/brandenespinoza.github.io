@@ -10,15 +10,10 @@ Here's my reading list: a journey through tales, lessons, and lingering thoughts
 
 {% for post in site.posts %}
 {% if post.categories contains "bookreview" %}
-{% if post.tags contains page.tag %}
-            <time class="date" datetime="{{ page.date | '%Y-%m-%dT%H:%i:%S-08:00' }}" itemprop="datePublished">
-                {{ page.date | date: '%B %d, %Y' }}
-            </time>
-        <h1>
+{% if post.tags contains page.tag %}   
             <a itemprop="url" href="{{ post.url }}" target="_blank" title="{{ post.title }}">
                 <span itemprop="name" itemprop=name>{{ post.title }}</span>
             </a>
-        </h1>
         <p class="link_tags">{{ page.tags }}</p>
         </div>
     </div>
@@ -31,7 +26,7 @@ Here's my reading list: a journey through tales, lessons, and lingering thoughts
 
 
 # On Deck
-- {% for post in site.posts %} {% if post.categories contains "books" %}
+- {% for post in site.posts %} {% if post.categories contains "bookreview" %}
 {{ post.date | date: site.date_format }}{{ post.title }}
 {% endif %} {% endfor %}
 
