@@ -6,4 +6,4 @@ categories: book-review
 tags: in-progress
 ---
 
-The following is an essay which 
+In Progress
