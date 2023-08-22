@@ -3,44 +3,32 @@ layout:    page
 title:     Library
 permalink: /library/
 ---
+<div class="home">
 Here's my reading list: a journey through tales, lessons, and lingering thoughts. While some have left their mark, others simply passed the time. Either way, they're milestones on my path. Dive in to see what caught my eye or just what kept me company on a quiet night. It's a taste, a snapshot, of a broader journey through words.
-
-
-
-
-
-# Currently Reading
-<ul>
-{% for post in site.posts %}
-{% if post.categories contains "book-review" %}
-{% if post.tags contains "in-progress" %}
-<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-{% endif %}
-{% endif %}
-{% endfor %}
-<li><a href="#">"Atlas Shrugged" by Ayn Rand</a></li>
-</ul>
-
-
-# Completed
-<ul>
-{% for post in site.posts %}
-{% if post.categories contains "bookreview" %}
-{% if post.tags contains "inprogress" %}
-<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-{% endif %}
-{% endif %}
-{% endfor %}
-<li><a href="#">"Atlas Shrugged" by Ayn Rand</a></li>
-</ul>
-
-
-# On Deck
-- {% for post in site.posts %} {% if post.categories contains "bookreview" %}
-{{ post.date | date: site.date_format }}{{ post.title }}
-{% endif %} {% endfor %}
-
-# Past Reads
-- {% for post in site.posts %} {% if post.categories contains "books" %}
-{{ post.date | date: site.date_format }}{{ post.title }}
-{% endif %} {% endfor %}
+<div class="home">
+   <h2>On Deck</h2>
+      <ul class="posts">
+         <li><a href="#">Atlas Shrugged by Ayn Rand</a></li>
+      </ul>
+   <h2>In Progress</h2>
+      <ul class="posts">
+         {% for post in site.posts %}
+            {% if post.categories contains "book-review" %}
+               {% if post.tags contains "in-progress" %}
+                     <li><span>{{ post.date | date: site.date_format }}</span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+               {% endif %}
+               {% endif %}
+         {% endfor %}
+      </ul>
+   <h2>Completed</h2>
+      <ul class="posts">
+         {% for post in site.posts %}
+            {% if post.categories contains "book-review" %}
+               {% if post.tags contains "completed" %}
+                     <li><span>{{ post.date | date: site.date_format }}</span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+               {% endif %}
+               {% endif %}
+         {% endfor %}
+         <li><span>2016-20-08</span><a href="#">"Atlas Shrugged" by Ayn Rand</a></li>
+      </ul>
+</div>
