@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="home">
+   <h2>Articles</h2>
+    <ul class="posts">
+     
+        {% for post in site.posts %}
+        <li><span>{{ post.date | date: site.date_format }}</span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
+</div>
+
+
+
+
+# On Deck
+<ul>
+{% for post in site.posts %}
+{% if post.categories contains "book-review" %}
+{% if post.tags contains "in-progress" %}
+<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+{% endif %}
+{% endif %}
+{% endfor %}
+<li><a href="#">Atlas Shrugged by Ayn Rand</a></li>
+</ul>
+
+# Currently Reading
+<ul>
+{% for post in site.posts %}
+{% if post.categories contains "bookreview" %}
+{% if post.tags contains "inprogress" %}
+<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+{% endif %}
+{% endif %}
+{% endfor %}
+<li><a href="#">Atlas Shrugged by Ayn Rand</a></li>
+</ul>
