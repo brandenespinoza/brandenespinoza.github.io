@@ -38,13 +38,16 @@ Here's my reading list: a journey through tales, lessons, and lingering thoughts
 {% endfor %}
 
 # Currently Reading
+<ul>
 {% for post in site.posts %}
-{% if post.categories contains "bookreview" %}
-{% if post.tags contains "inprogress" %}
+{% if post.categories contains "book review" %}
+{% if post.tags contains "in progress" %}
 <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
 {% endif %}
 {% endif %}
 {% endfor %}
+<li><a href="#">Atlas Shrugged by Ayn Rand</a></li>
+</ul>
 
 
 # Completed
