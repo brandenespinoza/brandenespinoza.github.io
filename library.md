@@ -22,7 +22,42 @@ Here's my reading list: a journey through tales, lessons, and lingering thoughts
 {% endfor %}
 
 
+{% for post in site.posts %}
+{% if post.categories contains "bookreview" %}
+<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+{% endif %}
+{% endfor %}
 
+# On Deck
+{% for post in site.posts %}
+{% if post.categories contains "bookreview" %}
+{% if post.tags contains "ondeck" %}
+<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+{% endif %}
+{% endif %}
+{% endfor %}
+
+# Currently Reading
+{% for post in site.posts %}
+{% if post.categories contains "bookreview" %}
+{% if post.tags contains "inprogress" %}
+<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+{% endif %}
+{% endif %}
+{% endfor %}
+
+
+# Completed
+<ul>
+{% for post in site.posts %}
+{% if post.categories contains "bookreview" %}
+{% if post.tags contains "inprogress" %}
+<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+{% endif %}
+{% endif %}
+{% endfor %}
+<li><a href="#">Atlas Shrugged by Ayn Rand</a></li>
+</ul>
 
 
 # On Deck
