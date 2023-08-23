@@ -8,14 +8,20 @@ I wanted to start documenting my journey through tales, lessons, and thoughts fo
 <div class="home">
    <h2>On Deck</h2>
       <ul class="posts">
-         <li><span>Eventually</span><a href="#">"Man's Search for Meaning" by Viktor E. Frankl</a></li>
+         {% for post in site.posts %}
+            {% if post.categories contains "book-review" %}
+               {% if post.tags contains "on-deck" %}
+                     <li><span>{{ post.date | date: site.date_format }}</span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+               {% endif %}
+               {% endif %}
+         {% endfor %}
       </ul>
    <h2>In Progress</h2>
       <ul class="posts">
          {% for post in site.posts %}
             {% if post.categories contains "book-review" %}
                {% if post.tags contains "in-progress" %}
-                     <li><span>About Now</span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+                     <li><span>{{ post.date | date: site.date_format }}</span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
                {% endif %}
                {% endif %}
          {% endfor %}
