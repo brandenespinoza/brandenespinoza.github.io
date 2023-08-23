@@ -1,7 +1,7 @@
 ---
 layout:    page
-title:     Book Reviews
-permalink: /book-reviews/
+title:     Book Notes
+permalink: /book-notes/
 ---
 <div class="home">
 I wanted to start documenting my journey through tales, lessons, and thoughts found in the books I read. While some have left their mark, others simply passed the time. Either way, they're milestones on my path. Dive in to see what caught my eye or just what kept me company on a quiet night. It's a taste, a snapshot, of a broader journey through words.
