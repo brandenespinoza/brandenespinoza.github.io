@@ -21,10 +21,10 @@ I wanted to start documenting my journey through tales, lessons, and thoughts fo
          {% for post in site.posts %}
             {% if post.categories contains "book-review" %}
                {% if post.tags contains "in-progress" %}
-                     <li><span>Currently</span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+                     <li><span>About Now</span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
                {% endif %}
                {% endif %}
-         {% endfor %}</li>
+         {% endfor %}
       </ul>
    <h2>Completed</h2>
       <ul class="posts">
