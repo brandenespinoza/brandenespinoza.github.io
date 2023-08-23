@@ -14,6 +14,7 @@ tags: in-progress
 1. **Chapter Two: The Way of Men is The Way of The Gang**
 	* The very essence of masculinity is rooted in the tribal nature of men.
 	* Men gravitate towards groups for mutual defense, camaraderie, and shared purpose.
+{::comment}
 1. The Perimeter
 	* Men establish and defend boundaries, differentiating between 'us' and 'them'.
 	* This perimeter defines the tribe and by extension, individual identity within that tribe.
@@ -48,3 +49,4 @@ tags: in-progress
 	* The struggle to find identity in a rapidly homogenizing world.
 1. Conclusion: Start the World
 	* A call to action for men to reconnect with their primal instincts and establish their tribe in a seemingly chaotic world.
+{:/comment}
