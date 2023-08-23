@@ -11,7 +11,7 @@ I wanted to start documenting my journey through tales, lessons, and thoughts fo
          {% for post in site.posts %}
             {% if post.categories contains "book-review" %}
                {% if post.tags contains "on-deck" %}
-                     <li><span>{{ post.date | date: site.date_format }}</span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+                     <li><span>Eventually</span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
                {% endif %}
                {% endif %}
          {% endfor %}
@@ -21,11 +21,10 @@ I wanted to start documenting my journey through tales, lessons, and thoughts fo
          {% for post in site.posts %}
             {% if post.categories contains "book-review" %}
                {% if post.tags contains "in-progress" %}
-                     <li><span>{{ post.date | date: site.date_format }}</span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+                     <li><span>Currently</span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
                {% endif %}
                {% endif %}
-         {% endfor %}
-         <li><span>About Now</span><a href="#">The Sovereign Individual: Mastering the Transition to the Information Age by James Dale Davidson and William Rees-Mogg</a></li>
+         {% endfor %}</li>
       </ul>
    <h2>Completed</h2>
       <ul class="posts">
