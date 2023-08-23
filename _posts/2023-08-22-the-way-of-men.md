@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Book Review - "The Way of Men" by Jack Donovan
+title: Book Notes - "The Way of Men" by Jack Donovan
 date: 2023-08-22 15:32
-categories: book-review
+categories: book-notes
 tags: in-progress
 ---
 
-1. Chapter One: The Way of Men is The Way of The Gang
-  * The core idea is that masculitity is derivative of men bond in groups for mutual protection and purpose.
-  * These groups/gangs, are key to understanding male nature.
-  * Masculinity, in Donovan's perspective, isn't about societal expectations, but about the innate drives and desires that make men valuable to each other in a primal, tribal setting.
-  * He questions modern society's detachment from these primal roots and proposes that many of the problems modern men face are due to this disconnect.
+1. **Chapter One:** The Way of Men is The Way of The Gang
+  	* The core idea is that masculitity is derivative of men bond in groups for mutual protection and purpose.
+  	* These groups/gangs, are key to understanding male nature.
+  	* Masculinity, in Donovan's perspective, isn't about societal expectations, but about the innate drives and desires that make men valuable to each other in a primal, tribal setting.
+  	* He questions modern society's detachment from these primal roots and proposes that many of the problems modern men face are due to this disconnect.
 1. The Way of Men is The Way of The Gang
 	* The very essence of masculinity is rooted in the tribal nature of men.
 	* Men gravitate towards groups for mutual defense, camaraderie, and shared purpose.
