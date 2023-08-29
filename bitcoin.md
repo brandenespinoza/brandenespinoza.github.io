@@ -3,7 +3,18 @@ layout:    page
 title:     Bitcoin Resources
 permalink: /bitcoin/
 ---
+
+<br/>
+
+<div style="text-align:center"><span class="navy">"The root problem with conventional currency is all the trust that’s required to make it work. The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust." - Satoshi Nakamoto</span></div>
+
+<br/>
+
+---
+
 Bitcoin is money that can't be copied, censored, or confiscated. It is controlled by no one. It is global.  And it is changing **everything**. Below is a highly currated set of resources and tools that I find useful as I continue to tumble down this bottomless rabbit hole. Bitcoin is a call to personal responsibility, as such, it is unforgiving.  With time and discipline you will become very comfortable transacting in and safely protecting your bitcoin. 
+
+---
 
 # Wallets
 - [Muun Wallet](https://muun.com/) - Simple and non-custodial. Not yet LNURL Auth compatible.
