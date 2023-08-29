@@ -9,11 +9,12 @@
 <body>
     <main>
         <header class="site-header">
-            <h1 class="site-title" style="float: left;"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-            <div style="padding-bottom: 20 px; float: right; position: relative;">
+            <div style="position: relative;">
+            <h1 class="site-title" style=""position: absolute; left: 0; top: 0"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+            <div style="position: absolute; right: 0; top: 0; text-align: right">
                 <span style="font-weight: bolder;">Nos qui orimur cum aestus recedit.</span><br/>
                 <span style="font-weight: lighter; padding-bottom: 20 px;">We who arise when the tide subsides.</span>
-            </div>
+            </div> </div>
             <nav class="site-nav">
                 <a href="{{ site.baseurl }}/" class="{% if page.url == '/' %}active{% endif %}">Home</a>
                 <a href="{{ site.baseurl }}/bitcoin/" class="{% if page.url == '/bitcoin/' %}active{% endif %}">Bitcoin</a>
