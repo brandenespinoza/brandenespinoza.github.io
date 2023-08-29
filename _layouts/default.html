@@ -10,10 +10,12 @@
     <main>
         <header class="site-header">
             <h1 class="site-title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-            <span style="font-weight: bolder;">Nos qui orimur cum aestus recedit.</span><br/>
-            <span style="font-weight: lighter;">We who arise when the tide subsides.</span>
+            <div style="padding-bottom: 20 px; float:right;">
+                <span style="font-weight: bolder;">Nos qui orimur cum aestus recedit.</span><br/>
+                <span style="font-weight: lighter; padding-bottom: 20 px;">We who arise when the tide subsides.</span>
+            </div>
             <nav class="site-nav">
-                <a href="{{ site.baseurl }}/" class="{% if page.url == '/' %}active{% endif %}">Bitcoin</a>
+                <a href="{{ site.baseurl }}/" class="{% if page.url == '/' %}active{% endif %}">Home</a>
                 <a href="{{ site.baseurl }}/bitcoin/" class="{% if page.url == '/bitcoin/' %}active{% endif %}">Bitcoin</a>
                 <a href="{{ site.baseurl }}/tradition/" class="{% if page.url == '/tradition/' %}active{% endif %}">Tradition</a>
                 <a href="{{ site.baseurl }}/book-notes/" class="{% if page.url == '/book-notes/' %}active{% endif %}">Book Notes</a>
