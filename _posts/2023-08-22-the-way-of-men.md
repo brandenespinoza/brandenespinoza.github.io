@@ -15,7 +15,9 @@ tags: in-progress
 		* The very essence of masculinity is rooted in the tribal nature of men.
 		* Men gravitate towards groups for mutual defense, camaraderie, and shared purpose.
 	* Thoughts
-		* It seams reasonable to assume that this drive for mutual defense and shared purpose is experienced by modern men in modern society. I keep getting the impression that Donovan dismisses this as so much of his brand depends on primitivism.  But I think men could benefit from the idea that they are supposed to be in mortally risky situations, that they are supposed to depend on each other for mutual defense, friendship, and purpose.  The takeaway is that maybe we should encourage men to pursue risks even more than they do.  Perhaps we can leverage this entire framework by making our work PROFESSIONALLY risky if not MORTALLY so. 
+		* It seems reasonable to assume that this drive for mutual defense and shared purpose is experienced by modern men in modern society. I keep getting the impression that Donovan dismisses this as so much of his brand depends on primitivism.  But I think men could benefit from the idea that they are supposed to be in mortally risky situations, that they are supposed to depend on each other for mutual defense, friendship, and purpose.
+		* The takeaway is that maybe we should encourage men to pursue risks even more than they do.  Perhaps we can leverage this entire framework by making our work PROFESSIONALLY risky if not MORTALLY so.
+
 1. **Chapter Two: The Perimeter**
 	* Notes
 		* Men must establish and defend boundaries, differentiating between 'us' and 'them'.
@@ -29,7 +31,10 @@ tags: in-progress
 		* Men will dehumanize each other to make the tough decisions necessary for their own group to survive.
 		* Civilization is dependent upon men to embrace this identity of "drawer and defender of the perimeter" 
 		* Protecting is the primal role and your value to other men is determined by how well you fulfill that role.
-		* "When men evaluate each other, as men, they still look for the same virtues that they'd need to keep the perimeter.  Men respond to and admire the qualities that would make men useful and dependable in an emergency. Men have always had a role apart, and they still judge one another according to the demands of that role as a guardian, in a gang struggling for survival against encroaching doom. Everything about being a man, not merely a person, has to do with THAT role. As you stand back to back, fending off incoming oblivion, what do you need from the men in your group... what kind of men do you want at your flank?"
+	* Quote(s)
+
+	   > When men evaluate each other, as men, they still look for the same virtues that they'd need to keep the perimeter.  Men respond to and admire the qualities that would make men useful and dependable in an emergency. Men have always had a role apart, and they still judge one another according to the demands of that role as a guardian, in a gang struggling for survival against encroaching doom. Everything about being a man, not merely a person, has to do with THAT role. As you stand back to back, fending off incoming oblivion, what do you need from the men in your group... what kind of men do you want at your flank?
+
 	* Thoughts
 		* Continuing with my desire to interpret this as a metaphor for modern man, I am starting to see something take shape.  What is the modern father if not someone drawing and defending boundaries, striving succesfully to eliminate potential threats?  What is the modern business man if not someone exploring for opportunity, hunting for return, building an empire, and defending it with all the cunning he can?  Does he not still get a testosterone bump for winning?  Does he not become more driven the more successful he is?  Does he not draw a small group of people (2-15 people) into his circle of trust? Does he not judge them based on his impression of their willingness and ability to grow and successfully defend the perimeter? Do his men not judge him harshly on his ability to wield those virtues?
 		* I need to focus on building a deep and dedicated circle of trust.  I need to become the man that is attractive to men who are good at being men.
