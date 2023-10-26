@@ -11,74 +11,90 @@ permalink: /cv/
 
 # Professional Statement
 
-I’m a product wizard whose one true love is **Bitcoin**. 
+I lead product teams. For over 10 years I have led initiatives from FOREX platform enhancements at American Express to regulatory compliance training products at BB&T/Truist to digital asset listing, custody, and handling features at Bullish.com. With a technical and cultural understanding of Bitcoin, digital asset custody, and trading products, I bring seasoned leadership in the digital asset product space. My comfort and proficiency in navigating governance, risk, and compliance in stringent regulatory environments make me well-suited to build next-generation fintech strategies and the teams that deliver them.
 
-I’ve supported global foreign exchange product launches; produced regulatory compliance training; spearheaded blockchain protocol governance projects; coordinated FOSS product research; built a first-of-its-kind, enterprise-grade blockchain SaaS platform; and I am currently building the Digital Asset Listing team of a brand-new regulated cryptocurrency exchange. I’ve led dozens of engineers and product pros scattered around the globe, built world-class digital products, know the crypto space inside and out, and have a thing for nurturing relationships with stakeholders from the mailroom to the c-suite. 
+# Skills & Knowledge Sets
+- Expert Bitcoin domain knowledge
+- Digital asset custody models
+- Agile/SAFE methodology
+- FOREX & crypto trading products 
+- FOREX & crypto exchange ops 
+- Global digital asset regulatory regimes 
+- Product lifecycle management 
+- Product team leadership 
+- Stakeholder management
 
 # Training & Certifications
-
-- **SAFe Agile Product Owner Product Manager (POPM)** - Scaled Agile, Inc - December 2022
-- **Certified Scrum Product Owner (CSPO)** - Scrum Alliance - November 2020
-- **Project Management Professional (PMP Qualification Training)** - Project Management Institute - March 2013
+- **SAFe Agile Product Owner Product Manager (POPM Training)** - Scaled Agile, Inc - December 2022
+- **Certified Scrum Product Owner (CSPO Certification)** - Scrum Alliance - November 2020
+- **Project Management Professional (PMP Training)** - Project Management Institute - March 2013
 
 # Experience
 
-**Senior Product Manager, Digital Assets**<br/>
-**Bullish.com (a block.one company)**<br/>
-Jan 2021 – Present; >300 employees; Digital Asset/Cryptocurrency Industry; Grand Cayman & Remote
-- Architected end-to-end listing process for vetting digital assets to be integrated on the exchange.
-- Co-authored formal governance policies relating to the listing and maintenance of exchange supported digital assets.
-- Developed end-to-end process to capture and manage external threats and vulnerabilites of exchange supported digital assts.
-- Managed design and development of admin module enabling high-velocity, dynamic listing of new digital assets to the exchange.
-- Managed design and development of digital asset pricing oracle (i.e. Digital Asset Indices product). 
-- Maintained expert level domain knowledge while tracking ongoing advancements to industry and supported assets.
+## Senior Product Manager, Stakeholder Management
+*EOS Network Foundation*<br/>
+April 2023 – Nov 2023; Remote
+- Led end-to-end stakeholder engagement, driving critical feature inclusion.
+- Systematized stakeholder feedback acquisition, fostering responsiveness and product improvement and innovation.
+- Drove stakeholder-aligned, data-driven product decision making by synthesizing and escalating research.
+- Initiated and led cross-functional, evidence-based product planning and ideation sessions to align business objectives.
 
-**Senior Technical Project Manager**<br/>
-**OMNI Omnichannel Commerce Inc**<br/>
-Oct 2019 – Oct 2020; 25-30 employees; Ecommerce Global System Integrator Industry; Remote
-- Managed portfolio of omnichannel ecommerce replatforming integration projects.
-- Founded the agency’s Project Management Office.
-- Formalized the agency’s best practices for planning, managing, and reporting projects.
+**Key Achievement**<br/>
+- Built a stakeholder-focused product management processes, accelerating the efficient delivery and development of products that resonate with user needs and expectations.
+
+## Senior Product Manager, Digital Asset & Exchange Product
+*Bullish.com (a block.one company)*<br/>
+Jan 2021 – March 2023; Grand Cayman & Remote
+- Managed all product features directly related to listing of digital assets/tokens.
+- Architected end-to-end digital asset vetting and listing process with consideration for secure and compliant custody.
+- Maintained an expert level of domain knowledge, with attention to custodial solutions and asset management practices.
+- Spearheaded research initiatives focused on Bitcoin-specific integrations and alternative custody solutions.
+- Designed and iterated a regulatory-friendly Product/Feature Review and Approval process.
+
+**Key Achievements**
+- Launched a subsystem, significantly accelerating the secure listing of new digital assets on the platform.
+- Designed a global spot-price oracle/API suite, laying the groundwork for the introduction of margin and futures products.
+
+## Senior Technical Project Manager, Ecommerce Replatforming
+*Omnichannel Commerce Inc*<br/>
+Oct 2019 – Oct 2020; Remote
+- Formalized the agency’s best practices for planning, managing, reporting, and billing projects.
 - Led global teams of 30+, including Developers, Architects, and Project Managers.
-- Replatformed of clients’ omnichannel ecommerce solutions and integrations including Salesforce Commerce Cloud, Dell Boomi enterprise middleware, and Envista order management.
-- Improved project velocity by over 200%.
+- Managed ecommerce replatforming and systems integration projects including Salesforce Commerce Cloud, enterprise middleware, and various payment, warehouse, and order management solutions.
 
-**Director of Product**<br/>
-**StrongBlock**<br/>
-Jan 2019 – Sept 2019; 10-25 employees;  Blockchain/DLT Networks Industry; Remote
-- Brought the StrongBlock (Enterprise-grade Blockchain-as-a-Service) product suite to life.
-- Directed product lifecycle (product specifications, global development team, QA, unit testing, regression tests.)
+**Key Achievements**
+- Tripled project delivery velocity.
+- Founded and formalized the company’s PMO.
+
+## Director of Product
+*StrongBlock (a pre-series A startup)*<br/>
+July 2018 – Sept 2019; Remote
+- Brought the StrongBlock Enterprise-grade Blockchain-as-a-Service product suite to life.
+- Managed product roadmap, product specs, global development team, QA, unit testing, regression tests.
 - Transitioned team from waterfall-based engineering process to fully integrated agile process and SCRUM framework.
-- Developed a comprehensive product strategy derived from user interviews, competitive landscape, and c-suite vision.
-- Initiated key product pivots resulting in a better, more user-focused product.
-- Participated in the execution of go-to-market and launch activities.
 
-**Manager of Process and Product - Network Governance**<br/>
-**StrongBlock**<br/>
-July 2018 – Jan 2019; 10-25 employees; Blockchain/DLT Networks Industry; Remote
-- Designed Blockchain/DLT network models leveraging EOSIO as the core blockchain technology.
-- Expanded company’s domain knowledge of enterprise consortia.
-- Integrated best-practices of enterprise consortium governance into product feature roadmap.
-- Researched and authored Blockchain/DLT network governance studies.
-- Authored investor-facing materials for $4MM seed round, including whitepapers, technical yellow papers, business
-model summary sheets (one-pagers), pitch decks, etc.
+**Key Achievements**
+- Developed a comprehensive product strategy uniting user interviews, competitive landscape, and c-suite vision.
 
-**Governance, Risk, and Regulatory Compliance Training Consultant (AML, BSA, CTF)**<br/>
-**BB&T (now Truist Bank)**<br/>
-Jan 2017 – Sept 2018; 10,000+ employees; Financial Services Industry; Greensboro/Winston-Salem, North Carolina Area/Remote
+## Regulatory Compliance Training Solutions Manager (AML, BSA, CTF) 
+*BB&T (now Truist Bank)*<br/>
+Jan 2017 – Sept 2018; Remote
 - Rapidly designed, prototyped, and implemented a new enterprise-wide AML training product.
-- Satisfied the training-related requirements of the regulator issue consent orders.
-- Enhanced BB&T's compliance program to support regulatory compliance needs for client-side products.
+- Consulted on BB&T's compliance program to support regulatory compliance needs for client-side products.
 - Designed various change management solutions to ensure long-term viability of training assets.
 
-**Learning & Development Project Manager, Fintech & Regulatory Compliance**<br/>
-**American Express Foreign Exchange Services**<br/>
-June 2011 – March 2017; 10,000+ employees; Financial Services Industry; Greater Salt Lake City Area
-- Coordinated a global regulatory compliance training rebuild across business lines in response to Dodd-Frank.
-- Designed and developed training products supporting global launch of a digital FOREX platform.
+**Key Achievement**
+- Delivered compliance training products resulting in lifting of FDIC issued consent order/decree.
+
+## Learning & Development Project Manager, Fintech & Regulatory Compliance 
+*American Express (Foreign Exchange Services)*<br/>
+June 2011 – March 2017; Greater Salt Lake City Area
+- Consulted on product feature enhancement of a point-of-sale retail FOREX platform.
 - Instituted rapid prototyping methods, reducing training designer/developer man hours by 25% per project.
-- Leveraged micro-learning approach to prepare global staff for deployment of a point-of-sale retail platform.
-- Deployed and supported a global knowledgebase with 3000+ topics to support customer facing relationship managers.
+- Deployed and supported a global knowledge base with 3000+ topics to support customer facing relationship managers.
+
+**Key Achievement**
+- Delivered global regulatory compliance training product rebuild across all business lines in response to Dodd-Frank.
 
 # Education
 
@@ -88,13 +104,13 @@ Bachelors of Science in Business Entrepreneurship
 - Lean Startup Methodology
 - Product Development
 - Entrepreneurial Finance
+- Business Development/Sales
 
 **Cornell University**<br/>
 **September 1997 – January 1999**<br/>
 Natural Resource Management
 - Agribusiness Management
 - Behavioral Economics
-- Resource Management
 - Change Management
 
 
