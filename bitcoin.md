@@ -4,35 +4,41 @@ title:     Bitcoin Resources
 permalink: /bitcoin/
 ---
 
-<br/>
+You've heard me talk about Bitcoin. Likely a lot. It's different. It's a kind of money that's secure, cannot be controlled, and is everywhere. It's digital. This is not the money we grew up with. This is new.
 
-<div style="text-align:center"><span class="navy">"The root problem with conventional currency is all the trust that’s required to make it work. The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust." - Satoshi Nakamoto</span></div>
+I've spent time learning about it. Along the way, I found resources that helped. I share them here. They are for understanding, using, and protecting Bitcoin. It demands responsibility. This is serious.
 
-<br/>
+For those beginning, the whitepaper by Satoshi Nakamoto is where it started. It is complex. I've selected simpler materials. They explain Bitcoin's workings and its potential. If you have questions, ask. This is important.
 
----
 
-Bitcoin is money that can't be copied, censored, or confiscated. It is controlled by no one. It is global.  And it is changing **everything**. Below is a highly currated set of resources and tools that I find useful as I continue to tumble down this bottomless rabbit hole. Bitcoin is a call to personal responsibility, as such, it is unforgiving.  With time and discipline you will become very comfortable transacting in and safely protecting your bitcoin. 
+# Bitcoin's Potential
+* Parker Lewis's [Gradually Then Suddenly series](https://unchained.com/blog/category/gradually-then-suddenly/)
+* Vijay Boyapati's [The Bullish Case for Bitcoin](https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1)
 
----
+# Resource Collections
+* Michael Saylor's [Hope.com](https://www.hope.com)
+* [The Satoshi Nakamoto Institute](https://nakamotoinstitute.org)
+* Jameson Lopp's personal [resource page](https://www.lopp.net/bitcoin-information.html)
+* Der Gigi's personal [resource page](https://bitcoin-resources.com/#bitcoin-non-technical)
 
-# Wallets
-- [Muun Wallet](https://muun.com/) - Simple and non-custodial. Not yet LNURL Auth compatible.
-- [Blue Wallet](https://bluewallet.io/) - Lighting on Blue Wallet is custodial. LNURL Auth compatible. 
+# Courses
+* Michael Saylor's [Bitcoin for Everybody](https://learn.saylor.org/course/view.php?id=468) course at Saylor University
+* MIT's [Blockchain and Money - Fall 2018](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/video-lectures/)
+  
+# Books
+* Saifedean Ammous' [The Bitcoin Standard](https://z-epub.com/book/the-bitcoin-standard-epub-download) **Free Copy**
+
+# Recommeded Wallets
 - [Sparrow Wallet](https://sparrowwallet.com/)
 - [ColdCard](https://coldcard.com/) - For power users.  
 - [Bitbox02 Bitcoin Edition](https://shiftcrypto.ch/bitbox02/bitcoin-only/) - For beginners.
-- [Ledger Nano S+](https://shop.ledger.com/products/ledger-nano-s-plus) - Very common. Not Bitcoin Only.
 
 # Nodes & Node Packages
 - [Bitcoin Core](https://bitcoin.org/en/bitcoin-core/) - The OG reference client.
 - [Raspibolt](https://raspibolt.org/) - A step-by-step DIY tutorial.  
-- [Umbrel](https://umbrel.com/) - Personal server on Rasbperry Pi.
+
 
 # Block Explorers & Visualizations
-- [Bitlisten](http://bitlisten.com)
 - [UTXO Live](http://utxo.live)
-- [Transaction Street](https://txstreet.com/v/btc)
-- [Bitfeed](https://bits.monospace.live/)
 - [Mempool.space](https://mempool.space/)
 - [Blockstream Explorer](https://blockstream.info/)
