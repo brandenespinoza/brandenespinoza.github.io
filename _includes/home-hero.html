@@ -9,6 +9,7 @@
         <div class="hero-content">
 
           {% if site.title != '' %}
+          <img style="margin: 10px auto 20px; display: block;border-radius:50%;width:300px; height:300px;object-fit: contain;" src="https://pbs.twimg.com/profile_images/1813755337226305536/NspXc7SQ_400x400.jpg" alt="Branden Espinoza">
           <h1 class="text-center">{{site.title}}</h1>
           {% endif %}
 
@@ -28,13 +29,16 @@
           <div class="hero-buttons">
 
             {% if site.twitter_username != '' %}
-              <a href="https://twitter.com/{{ site.twitter_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-twitter fa-lg"></i>Twitter</button></a>
+              <a href="https://twitter.com/{{ site.twitter_username }}"><button class="btn btn-default btn-lg" title="Twitter/X" ><i class="fa fa-twitter fa-lg" style="padding-left:15px"></i></button></a>
             {% endif %}
             {% if site.github_username != '' %}
-              <a href="https://github.com/{{ site.github_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-github fa-lg"></i>Github</button></a>
+              <a href="https://github.com/{{ site.github_username }}"><button class="btn btn-default btn-lg" title="Github" ><i class="fa fa-github fa-lg" style="padding-left:15px"></i></button></a>
             {% endif %}
-            {% if site.medium_username != '' %}
-              <a href="https://{{ site.medium_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-medium fa-lg"></i>Medium</button></a>
+            {% if site.linkedin_username != '' %}
+              <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}"><button class="btn btn-default btn-lg"  title="LinkedIn" ><i class="fa fa-linkedin fa-lg" style="padding-left:15px"></i></button></a>
+            {% endif %}
+            {% if site.nostr_username != '' %}
+              <a href="https://primal.net/p/{{ site.nostr_pubkey }}"><button class="btn btn-default btn-lg" title="Primal/Nostr" ><i class="fa fa-product-hunt fa-lg" style="padding-left:15px"></i></button></a>
             {% endif %}
 
           </div>

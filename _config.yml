@@ -13,15 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Hello. I'm Jami Gibbs."
-email: 'jami0821@gmail.com'
-description: "I'm a software developer and designer from Chicago creating useful things for the web."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'jamigibbs'
-github_username: 'jamigibbs'
-medium_username: 'blog.jamigibbs.com'
 
+title: "Hello.</br>I'm Branden Espinoza."
+email: 'espin.brand@protonmail.com'
+description: "I turn <strong>complex product visions</strong> into <strong>market realities</strong>."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://brandenespinoza.com/" # the base hostname & protocol for your site, e.g. https://example.com
+twitter_username: 'brandenespinoza'
+github_username: 'brandenespinoza'
+medium_username: 'blog.jamigibbs.com'
+linkedin_username: 'brandenespinoza'
+nostr_pubkey: 'npub1czjh5y554ycs0s7k299qsdt3se4g33n67ygdpargduk6mzerpaaqvt5p68'
+section_title: "Portfolio"
+section_subtitle: "A collection of products, features, and projects I'm particularly proud of."
 # Build settings
 markdown: kramdown
 # theme: phantom # Uncomment once published to RubyGems
@@ -92,8 +96,8 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
+footer_text: '© 2024 Branden Espinoza'
+admin_name: 'Branden Espinoza'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
 
@@ -102,3 +106,4 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
+  - { url: '/cv', text: 'CV' }

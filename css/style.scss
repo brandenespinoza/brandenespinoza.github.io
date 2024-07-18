@@ -48,8 +48,8 @@ article {
 }
 
 p {
-  line-height: 1.8;
-  font-size: 1.3em;
+  line-height: 1.4;
+  font-size: 1.2em;
 }
 
 a {
@@ -112,7 +112,7 @@ button.btn, input.btn {
 	2.0 Home Hero
 --------------------------------------------------------------*/
 .hero-container {
-  margin: 10em 0 9em 0;
+  margin: 8em 0 7em 0;
   @include bp-xsmall {
     margin: 5em 0 5em 0;
   }
