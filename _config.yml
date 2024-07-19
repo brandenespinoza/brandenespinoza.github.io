@@ -31,7 +31,7 @@ section_title: "Work I'm Proud Of"
 section_subtitle: "I am proud of the products, features, and projects that my teams and I have shipped."
 # Build settings
 markdown: kramdown
-theme: phantom 
+# theme: phantom 
 plugins:
   - jekyll-paginate
 
