@@ -1,7 +1,8 @@
 ---
 layout: inner
 position: left
-title: 'BB&T/Truist KYC AML Consulting'
+title: "BB&T/Truist"
+subtitle: "KYC AML Consulting"
 date: 2018-01-01 00:00:00
 categories: portfolio
 tags: AML KYC BSA compliance banking

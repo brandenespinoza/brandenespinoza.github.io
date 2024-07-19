@@ -1,7 +1,8 @@
 ---
 layout: inner
 position: left
-title: 'EOS Worker Proposal System'
+title: 'EOS Network'
+subtitle: "Worker Proposal System"
 date: 2018-07-07 00:00:00
 categories: portfolio
 tags: eos open-source web3 dao

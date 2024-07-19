@@ -1,7 +1,8 @@
 ---
 layout: inner
 position: left
-title: 'Bullish.com Spot Price Index'
+title: 'Bullish.com'
+subtitle: "Spot Price Index"
 date: 2023-02-02 00:00:00
 categories: portfolio
 tags: fintech exchange oracle api 

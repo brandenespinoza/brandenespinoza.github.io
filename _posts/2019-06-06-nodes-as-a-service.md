@@ -1,7 +1,8 @@
 ---
 layout: inner
 position: right
-title: 'StrongBlock Nodes-as-a-Service'
+title: 'StrongBlock'
+subtitle: "Blockchain Nodes-as-a-Service"
 date: 2019-06-06 00:00:00
 categories: portfolio
 tags: blockchain eosio design leadership web3

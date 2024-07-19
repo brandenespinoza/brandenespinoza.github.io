@@ -1,7 +1,8 @@
 ---
 layout: inner
 position: right
-title: 'EOS BallotCraft Guide'
+title: 'EOS Network'
+subtitle: "BallotCraft Guide"
 date: 2018-04-04 00:00:00
 categories: portfolio
 tags: eos open-source web3 dao

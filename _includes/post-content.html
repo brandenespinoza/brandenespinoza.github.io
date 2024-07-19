@@ -1,6 +1,10 @@
 <div class="content">
   <h3 class="title" style="white-space: nowrap">{{ post.title }}</h3>
 
+  {% if post.subtitle != empty %}
+  <h4 class="title" style="white-space: nowrap">{{ post.subtitle }}</h4>
+  {% endif %}
+
   <p class="excerpt">{{ post.lead_text }}</p>
 
   {% if post.project_link != empty %}
