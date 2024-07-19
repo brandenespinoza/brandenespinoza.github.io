@@ -14,21 +14,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Hello.</br>I'm Branden Espinoza."
+title: "Branden Espinoza"
+intro1: "Hello."
+intro2: "I'm Branden Espinoza."
+avatar: "https://pbs.twimg.com/profile_images/1813755337226305536/NspXc7SQ_400x400.jpg"
 email: 'espin.brand@protonmail.com'
-description: "I turn <strong>complex product visions</strong> into <strong>market realities</strong>."
+description: "Turning Product Visions into Market Realities"
+tagline: "I turn <strong>product visions</strong> into <strong>market realities</strong>."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://brandenespinoza.com/" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'brandenespinoza'
 github_username: 'brandenespinoza'
-medium_username: 'blog.jamigibbs.com'
 linkedin_username: 'brandenespinoza'
 nostr_pubkey: 'npub1czjh5y554ycs0s7k299qsdt3se4g33n67ygdpargduk6mzerpaaqvt5p68'
-section_title: "Portfolio"
-section_subtitle: "A collection of products, features, and projects I'm particularly proud of."
+section_title: "Work I'm Proud Of"
+section_subtitle: "I am proud of the products, features, and projects that my teams and I have shipped."
 # Build settings
 markdown: kramdown
-# theme: phantom # Uncomment once published to RubyGems
+theme: phantom 
 plugins:
   - jekyll-paginate
 
@@ -99,7 +102,7 @@ pagination:
 footer_text: '© 2024 Branden Espinoza'
 admin_name: 'Branden Espinoza'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
-enable_contact: false
+enable_contact: true
 
 #### Phantom Navigation menu
 enable_nav: true

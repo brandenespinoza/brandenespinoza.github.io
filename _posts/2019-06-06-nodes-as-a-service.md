@@ -4,7 +4,7 @@ position: right
 title: 'Nodes-as-a-Service'
 date: 2019-06-06 00:00:00
 categories: portfolio
-tags: blockchain eosio design leadership
+tags: blockchain eosio design leadership web3
 featured_image: '/img/posts/2019-06-06-nodes-as-a-service.png'
 project_link: 'https://www.strongblock.com'
 button_icon: 'flask'

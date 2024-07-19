@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container" style="height: 100vh;">
 
   <div class="row">
 
@@ -7,27 +7,25 @@
       <div class="hero-container">
 
         <div class="hero-content">
-
-          {% if site.title != '' %}
-          <img style="margin: 10px auto 20px; display: block;border-radius:50%;width:300px; height:300px;object-fit: contain;" src="https://pbs.twimg.com/profile_images/1813755337226305536/NspXc7SQ_400x400.jpg" alt="Branden Espinoza">
-          <h1 class="text-center">{{site.title}}</h1>
+          {% if site.avatar != '' %}
+          <img style="margin: 10px auto 0px; display: block;border-radius:50%;width:300px; height:300px;object-fit: contain;" src="{{site.avatar}}" alt="{{site.title}}">
           {% endif %}
-
-          {% if site.description != '' or site.enable_contact == true %}
-          <p class="text-center">
-            {% if site.description != '' %}
-            {{site.description}}
-            {% endif %}
-
-            {% if site.enable_contact == true %}
-            {% include contact.html %}
-            {% include contact-modal.html %}
-            {% endif %}
-          </p>
+          {% if site.intro1 != '' %}
+          <h1 class="text-center" style="margin-top:50px;">{{site.intro1}}</h1>
           {% endif %}
-
+          {% if site.intro2 != '' %}
+          <h1 class="text-center">{{site.intro2}}</h1>
+          {% endif %}
+          {% if site.tagline != '' %}
+            <p class="text-center" style="margin-top:100px;">
+            {{site.tagline}}
+            </p>
+          {% endif %}
           <div class="hero-buttons">
-
+            {% if site.enable_contact == true %}
+              {% include contact.html %}
+              {% include contact-modal.html %}
+            {% endif %}
             {% if site.twitter_username != '' %}
               <a href="https://twitter.com/{{ site.twitter_username }}"><button class="btn btn-default btn-lg" title="Twitter/X" ><i class="fa fa-twitter fa-lg" style="padding-left:15px"></i></button></a>
             {% endif %}
@@ -40,19 +38,18 @@
             {% if site.nostr_username != '' %}
               <a href="https://primal.net/p/{{ site.nostr_pubkey }}"><button class="btn btn-default btn-lg" title="Primal/Nostr" ><i class="fa fa-product-hunt fa-lg" style="padding-left:15px"></i></button></a>
             {% endif %}
-
           </div>
 
+            
+          <a class="section-jump text-center" style="vertical-align: middle" href="#portfolio">
+            <i class="fa fa-angle-down fa-3x"></i>
+          </a>
+          
         </div>
 
       </div>
 
-      <a class="section-jump text-center" href="#portfolio">
-        <i class="fa fa-angle-down fa-3x"></i>
-      </a>
-
     </div>
 
   </div>
-
 </div>
