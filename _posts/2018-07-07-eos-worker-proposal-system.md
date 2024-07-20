@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'EOS Network'
 subtitle: "Worker Proposal System"
 date: 2018-07-07 00:00:00

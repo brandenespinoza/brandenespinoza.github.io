@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: "BB&T/Truist"
 subtitle: "KYC AML Consulting"
 date: 2018-01-01 00:00:00

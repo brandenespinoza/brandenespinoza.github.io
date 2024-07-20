@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: "American Express"
 subtitle: "PoS Terminal Product Training"
 date: 2016-11-11 00:00:00

@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Bullish.com'
 subtitle: "Dynamic Asset Listing Portal"
 date: 2022-09-09 21:15:00
