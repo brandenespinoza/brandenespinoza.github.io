@@ -17,18 +17,18 @@ As a product leader and individual contributor, I bring a maturity acquired in t
 
 | Product Skills    | <span style="color:white;">..........</span>|Leadership Skills         |  <span style="color:white;">..........</span>| Knowledge Sets |
 |:-------------|:------------------|:------------------|:------------------|:------------------|
-| Agile/SAFE Methodology | &emsp;| Effective Communication| | |
-| Product Roadmapping | &emsp;| Team Leadership & Coaching | | aaa|
-| Technical Spec Writing | &emsp;| Conflict Resolution   | | aaa|
-| SDLC Mastery | &emsp;| Stakeholder Management  |  | aaa|
-| Performance Metrics Analysis       | &emsp;| Prioritization Techniques|  | Regulatory Compliance & Risk |
-| User-Centric Approach | &emsp;| Radical Accountability| | Expert Bitcoin domain knowledge|
+| Agile/SAFE Methodology | &emsp;| Change Manager |  &emsp;| Bitcoin/Crypto/Digital Asset Domain |
+| Product Roadmapping | &emsp;| Conflict Resolver |  &emsp;| BSA/AML/CTF Regulatory Compliance  |
+| Technical Spec Writing | &emsp;| Decision Maker | &emsp; | Product Lifecycle Management |
+| SDLC Mastery | &emsp;| Performance Manager  |  &emsp; | Fintech Trends & Innovations |
+| Performance Metrics Analysis       | &emsp;| Strategic Planner |  &emsp; | Data Security & Privacy  |
+| User-Centric Approach | &emsp;| Mentor & Coach | &emsp; | Risk Management & Mitigation |
 
 
 ### Training & Certifications
-**SAFe Agile Product Owner Product Manager (POPM Training)** - Scaled Agile, Inc - December 2022
-**Certified Scrum Product Owner (CSPO Certification)** - Scrum Alliance - November 2020
-**Project Management Professional (PMP Training)** - Project Management Institute - March 2013
+- **SAFe Agile Product Owner Product Manager (POPM Training)** - Scaled Agile, Inc - December 2022
+- **Certified Scrum Product Owner (CSPO Certification)** - Scrum Alliance - November 2020
+- **Project Management Professional (PMP Training)** - Project Management Institute - March 2013
 
 ### Experience
 
@@ -99,19 +99,11 @@ June 2011 – March 2017; Greater Salt Lake City Area
 
 ### Education
 
-**Brigham Young University**<br/>
-**September 2003 – April 2007**<br/>
-Bachelors of Science in Business Entrepreneurship
-- Lean Startup Methodology
-- Product Development
-- Entrepreneurial Finance
-- Business Development/Sales
-
-**Cornell University**<br/>
-**September 1997 – January 1999**<br/>
-Natural Resource Management
-- Agribusiness Management
-- Behavioral Economics
-- Change Management
-
-
+| **Brigham Young University**|  <span style="color:white;">..........</span> |**Cornell University**|
+| September 2003 – April 2007 |  | September 1997 – January 1999 |
+|:-------------|:------------------|:------------------|
+| **Bachelors of Science in Entrepreneurship** |  | **Natural Resource Management** |
+| - Lean Startup Methodology |  | - Agribusiness Management |
+| - Product Development |  | - Behavioral Economics |
+| - Entrepreneurial Finance |  | - Change Management |
+| - Business Development/Sales |  |  |
