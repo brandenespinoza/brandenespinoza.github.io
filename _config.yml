@@ -21,6 +21,7 @@ avatar: "https://pbs.twimg.com/profile_images/1813755337226305536/NspXc7SQ_400x4
 email: 'espin.brand@protonmail.com'
 description: "Turning Product Visions into Market Realities"
 tagline: "I turn <strong>product visions</strong> into <strong>market realities</strong>."
+motto: "Nos qui orimur cum aestus recidit."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://brandenespinoza.com/" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'brandenespinoza'
@@ -100,7 +101,7 @@ pagination:
 
 ### Phantom settings
 footer_text: '© 2024 Branden Espinoza'
-admin_name: 'Branden Espinoza'
+admin_name: 'Nos qui orimur cum aestus recidit.'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: true
 
