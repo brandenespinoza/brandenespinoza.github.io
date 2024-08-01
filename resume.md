@@ -1,7 +1,7 @@
 ---
 layout:    inner
-title:     CV
-permalink: /cv/
+title:     Resume
+permalink: /resume/
 ---
 <H1 style="text-align: center;">Branden Espinoza</h1>
 ---
