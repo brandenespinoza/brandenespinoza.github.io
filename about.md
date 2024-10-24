@@ -4,16 +4,16 @@ title: About
 permalink: /about/
 ---
 <div class="hero-container" style="margin-bottom:0px;">
-  <div class="hero-content wow fadein">
+  <div class="hero-content wow fadein" style="margin-top:-70px;">
     {% if site.avatar_2 != '' %}
     <img style="margin: 10px auto 0px; display: block;border-radius:5%;width:400px; height:400px;object-fit: contain;" src="{{site.avatar_2}}" alt="Branden Espinoza">
     {% endif %}
     <h1 class="text-center" style="margin-top:30px;">About Me</h1>
   </div>
 </div>
-<div style="margin-bottom:30px;">Family comes first, always, but I’ve got a knack for Bitcoin and a taste for leading product teams through the chaos of fintech. Got one boot in the old world of traditional finance and the other planted firmly in the wild frontier of digital assets. I don’t just talk shop – I make things happen.
-</div>
-<h3 class="section-title text-center">My Journey</h3>
+Family comes first, always, but I’ve got a knack for Bitcoin and a taste for leading product teams through the chaos of fintech. Got one boot in the old world of traditional finance and the other planted firmly in the wild frontier of digital assets. I don’t just talk shop – I make things happen.
+
+<h3 class="section-title text-center" style="margin-top:30px;">My Journey</h3>
 <p class="section-subtitle text-center" style="margin-top:-10px; margin-bottom:20px">Tradfi Roots... Defi Shoots</p>
 
 I cut my teeth in places like **American Express FX** and **Truist**, where I learned to dance with regulators without stepping on any toes. Compliance, risk management, all that – did it, nailed it. But the itch for something bigger got me moving. Found myself deep in the decentralized finance world, driving product at **Block.one** and **Bullish.com**. Built products and across **L1 protocols**, **fund raising**, **zero-to-one apps**, **exchanges** – you name it, I’ve had my hand in it. I don’t just build products; I build companies.
