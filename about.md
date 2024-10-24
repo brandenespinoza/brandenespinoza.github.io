@@ -3,7 +3,7 @@ layout: inner
 title: About
 permalink: /about/
 ---
-<div class="hero-container" style="margin-top:-70px; margin-bottom:0px;>
+<div class="hero-container" style="margin-top:-70px; margin-bottom:0px;">
   <div class="hero-content wow fadein">
     {% if site.avatar_2 != '' %}
     <img style="margin: 10px auto 0px; display: block;border-radius:5%;width:400px; height:400px;object-fit: contain;" src="{{site.avatar_2}}" alt="Branden Espinoza">
