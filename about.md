@@ -3,14 +3,18 @@ layout: inner
 title: About
 permalink: /about/
 ---
-
-
-<div class="hero-container">
-  <div class="hero-content wow fadein">
-    {% if site.avatar_2 != '' %}
-    <img style="margin: 10px auto 0px; display: block;border-radius:5%;width:400px; height:400px;object-fit: contain;" src="{{site.avatar_2}}" alt="Branden Espinoza">
-    {% endif %}
-    <h1 class="text-center" style="margin-top:30px;margin-bottom:5px;">About Me</h1>
+<div class="container" style="height: 100vh;">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="hero-container">
+        <div class="hero-content wow fadein">
+          {% if site.avatar_2 != '' %}
+          <img style="margin: 10px auto 0px; display: block;border-radius:5%;width:400px; height:400px;object-fit: contain;" src="{{site.avatar_2}}" alt="Branden Espinoza">
+          {% endif %}
+          <h1 class="text-center" style="margin-top:30px;margin-bottom:5px;">About Me</h1>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 Family comes first, always, but I’ve got a knack for Bitcoin and a taste for leading product teams through the chaos of fintech. Got one boot in the old world of traditional finance and the other planted firmly in the wild frontier of digital assets. I don’t just talk shop – I make things happen.
