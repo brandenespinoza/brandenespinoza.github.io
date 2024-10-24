@@ -16,9 +16,9 @@ Family comes first, always, but I’ve got a knack for Bitcoin and a taste for l
 <h3 class="section-title text-center" style="margin-top:30px;">My Journey</h3>
 <p class="section-subtitle text-center" style="margin-top:-10px; margin-bottom:20px">Tradfi Roots... Defi Shoots</p>
 
-I cut my teeth in places like **American Express FX** and **Truist**, where I learned to dance with regulators without stepping on any toes. Compliance, risk management, all that – did it, nailed it. But the itch for something bigger got me moving. Found myself deep in the decentralized finance world, driving product at **Block.one** and **Bullish.com**. Built products and across **L1 protocols**, **fund raising**, **zero-to-one apps**, **exchanges** – you name it, I’ve had my hand in it. I don’t just build products; I build companies.
+I cut my teeth in places like **American Express FX** and **Truist**, where I learned to dance with regulators without stepping on any toes. Compliance, risk management, all that – did it, nailed it. But the itch for something with a little more meaning got me moving. Found myself deep in the decentralized finance world, driving product at **Block.one** and **Bullish.com**. My projects and products included **L1 protocols**, **fund raising**, building **zero-to-one apps**, even launching golobally regulated **digital asset exchanges** – you name it, I’ve had my hand in it. I don’t just build products; I build companies.
 
-What gets me up in the morning? Working with sharp minds who don’t just talk change but make it. **No fluff** – just smarts, grit, and results.
+What gets me up in the morning? Working with razor sharp minds who don’t just talk change but make it. **No fluff** – just smarts, grit, and results.
 
 <h3 class="section-title text-center" style="margin-top:30px;">My Happy Place</h3>
 <p class="section-subtitle text-center" style="margin-top:-10px; margin-bottom:20px">Books, Beef, and Buffett</p>
