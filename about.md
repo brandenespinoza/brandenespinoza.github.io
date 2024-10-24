@@ -4,22 +4,43 @@ title: About
 permalink: /about/
 ---
 
-# Thanks for Stopping By!
-Hi, I'm Branden Espinoza – a dedicated family man, a passionate Bitcoin evangelist, and an experienced leader in the fintech space. With a unique blend of skills spanning traditional finance and digital assets, I've had the privilege of leading product teams that turn fintech visions into market realities.
+<div class="hero-container">
 
-## Professional Journey
-My career has taken me through the intricate worlds of both traditional finance and the digital asset ecosystem. At firms like American Express FX and Truist, I honed my expertise in regulatory compliance, ensuring financial services are both innovative and compliant. My journey then led me to the cutting edge of decentralized finance at Block.one and Bullish.com, where I contributed to the growth of L1s, zero-to-one pre-seed apps, and exchanges.
+  <div class="hero-content wow fadein">
+    {% if site.avatar != '' %}
+    <img style="margin: 10px auto 0px; display: block;border-radius:50%;width:300px; height:300px;object-fit: contain;" src="{{site.avatar}}" alt="{{site.title}}">
+    {% endif %}
+  </div>
+</div>
 
-My goal has always been to work with forward-thinking teams that are eager to shape the future.
+# Hey, Thanks for Dropping By  
+I’m Branden Espinoza – family comes first, always, but I’ve got a knack for Bitcoin and a taste for leading product teams through the chaos of fintech. Got one boot in the old world of traditional finance and the other planted firmly in the wild frontier of digital assets. I don’t just talk shop – I make things happen.
 
-## Personal Passions
-When I’m not immersed in the world of fintech, you’ll find me enjoying the simpler pleasures of life. As a family man, my greatest joy comes from spending quality time with my loved ones. I also indulge in a few quirky passions – whether it’s grooving to some tacky troprock, getting lost in a heavy book, or perfecting the art of smoked meats.
+---
 
-## My Philosophy
-I believe in the power of startups to disrupt and innovate, and I’m always eager to support and lead teams that share this belief. I’m startup-friendly and thrive in environments where creativity and agility are valued. My approach is always hands-on, ensuring that ideas don’t just remain on paper but become impactful market realities.  My study of Austrian economics and praxeology shapes my understanding of human behavior and decision-making, which in turn influences my approach to product development and market strategy. I’m passionate about integrating these principles into my work, fostering environments where ethical practices and sound economic theories drive success. I also practice a deep and abiding faith which guides my personal and professional life. 
+## The Journey – From TradFi to DeFi  
+I cut my teeth in places like **American Express FX** and **Truist**, where I learned to dance with regulators without stepping on any toes. Compliance, risk management, all that – did it, nailed it. But the itch for something bigger got me moving. Found myself deep in the decentralized finance world, driving product at **Block.one** and **Bullish.com**. Led projects across **L1 protocols**, **zero-to-one pre-seed apps**, **exchanges** – you name it, I’ve had my hand in it. I don’t just build products; I build the future.
 
-## Let's Connect
-I’m always open to new opportunities and connections. If you’re looking for someone who combines a deep understanding of both traditional finance and digital assets (especially bitcoin) with a personal touch, let’s talk. Looking forward to connecting with you!
+What gets me up in the morning? Working with sharp minds who don’t just talk change but make it. **No fluff** – just strategy, grit, and results.
+
+---
+
+## When I’m Not Changing the World…  
+Life’s not just numbers and protocols. I keep things simple when the laptop’s closed – spending time with the **family**, knocking out **ribs low and slow** in the smoker, or thumbing through **heavy books** that make you think twice about the world. Oh, and if you catch me cranking up some **trop rock tunes**? Don’t judge – we all got our vices.
+
+---
+
+## What Drives Me  
+**Startups** are where the magic happens – fast, messy, and real. I thrive in environments that value **action** over endless meetings.  
+Austrian economics and **praxeology** shape my thinking – helps me keep a clear head when the pressure’s on. I want ideas **off the drawing board and into the hands of the people** who need them, simple as that.
+
+Faith keeps me grounded. It’s a compass in all things – personal, professional, and everything in between. The **right principles guide the right outcomes**, and I carry that into every project I take on.
+
+---
+
+## Let’s Have a Word  
+If you’ve got a project that needs someone who understands both the **traditional finance grind** and the **wild ride of digital assets** – particularly **Bitcoin** – I’m all ears. Whether it’s a startup idea or just a good conversation, let’s connect. I’m here for the **right opportunities** and the **right people**.
+
 <div class="hero-buttons">
   {% if site.enable_contact == true %}
     {% include contact.html %}
