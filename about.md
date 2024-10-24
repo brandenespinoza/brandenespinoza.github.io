@@ -3,7 +3,7 @@ layout: inner
 title: About
 permalink: /about/
 ---
-<div class="hero-container" style="margin-top:-70px; margin-bottom:0px;">
+<div class="hero-container" style="margin-bottom:0px;">
   <div class="hero-content wow fadein">
     {% if site.avatar_2 != '' %}
     <img style="margin: 10px auto 0px; display: block;border-radius:5%;width:400px; height:400px;object-fit: contain;" src="{{site.avatar_2}}" alt="Branden Espinoza">
@@ -12,7 +12,7 @@ permalink: /about/
   </div>
 </div>
 <div style="margin-bottom:30px;">Family comes first, always, but I’ve got a knack for Bitcoin and a taste for leading product teams through the chaos of fintech. Got one boot in the old world of traditional finance and the other planted firmly in the wild frontier of digital assets. I don’t just talk shop – I make things happen.
-
+</div>
 <h3 class="section-title text-center">My Journey</h3>
 <p class="section-subtitle text-center" style="margin-top:-10px; margin-bottom:20px">Tradfi Roots... Defi Shoots</p>
 
