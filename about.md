@@ -7,7 +7,13 @@ permalink: /about/
 
   <div class="hero-content wow fadein">
     {% if site.avatar_2 != '' %}
-    <img style="margin: 10px auto 0px; display: block;border-radius:10%;width:400px; height:400px;object-fit: contain;" src="{{site.avatar_2}}" alt="{{site.title}}">
+    <img style="margin: 0px auto 0px; display: block;border-radius:50%;width:300px; height:300px;object-fit: contain;" src="{{site.avatar_2}}" alt="{{site.title}}">
+    {% endif %}
+    {% if site.intro1 != '' %}
+    <h1 class="text-center" style="margin-top:50px;">{{site.intro1}}</h1>
+    {% endif %}
+    {% if site.intro2 != '' %}
+    <h1 class="text-center">{{site.intro2}}</h1>
     {% endif %}
   </div>
 </div>
