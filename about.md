@@ -3,17 +3,15 @@ layout: inner
 title: About
 permalink: /about/
 ---
-
 <div class="hero-container">
 
   <div class="hero-content wow fadein">
-    {% if site.avatar != '' %}
-    <img style="margin: 10px auto 0px; display: block;border-radius:50%;width:300px; height:300px;object-fit: contain;" src="{{site.avatar}}" alt="{{site.title}}">
+    {% if site.avatar_2 != '' %}
+    <img style="margin: 10px auto 0px; display: block;border-radius:50%;width:300px; height:300px;object-fit: contain;" src="{{site.avatar_2}}" alt="{{site.title}}">
     {% endif %}
   </div>
 </div>
 
-# Hey, Thanks for Dropping By  
 I’m Branden Espinoza – family comes first, always, but I’ve got a knack for Bitcoin and a taste for leading product teams through the chaos of fintech. Got one boot in the old world of traditional finance and the other planted firmly in the wild frontier of digital assets. I don’t just talk shop – I make things happen.
 
 ---
@@ -25,8 +23,8 @@ What gets me up in the morning? Working with sharp minds who don’t just talk c
 
 ---
 
-## When I’m Not Changing the World…  
-Life’s not just numbers and protocols. I keep things simple when the laptop’s closed – spending time with the **family**, knocking out **ribs low and slow** in the smoker, or thumbing through **heavy books** that make you think twice about the world. Oh, and if you catch me cranking up some **trop rock tunes**? Don’t judge – we all got our vices.
+## When I’m Not Changing Financial Services…  
+Life’s not just numbers and protocols. I keep things simple when the laptop’s closed – spending time with the **family**, knocking out **ribs low and slow** in the smoker, or thumbing through **heavy books** that make you think twice about the world. Oh, and if you catch me cranking up some **goofy trop rock tunes**? Don’t judge – we all got our vices.
 
 ---
 
@@ -39,7 +37,7 @@ Faith keeps me grounded. It’s a compass in all things – personal, profession
 ---
 
 ## Let’s Have a Word  
-If you’ve got a project that needs someone who understands both the **traditional finance grind** and the **wild ride of digital assets** – particularly **Bitcoin** – I’m all ears. Whether it’s a startup idea or just a good conversation, let’s connect. I’m here for the **right opportunities** and the **right people**.
+If you’ve got a project that needs someone who understands both the **traditional finance grind** and the **wild ride of digital assets** – particularly **Bitcoin** – I’m all ears. Whether it’s a startup idea or just a good conversation, let’s connect.
 
 <div class="hero-buttons">
   {% if site.enable_contact == true %}
