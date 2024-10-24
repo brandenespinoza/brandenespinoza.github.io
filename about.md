@@ -3,24 +3,18 @@ layout: inner
 title: About
 permalink: /about/
 ---
-<div class="container" style="height: 100vh;">
-  <div class="row">
-    <div class="col-md-12">
-      <div class="hero-container">
-        <div class="hero-content wow fadein">
-          {% if site.avatar_2 != '' %}
-          <img style="margin: 10px auto 0px; display: block;border-radius:5%;width:400px; height:400px;object-fit: contain;" src="{{site.avatar_2}}" alt="Branden Espinoza">
-          {% endif %}
-          <h1 class="text-center" style="margin-top:30px;margin-bottom:5px;">About Me</h1>
-        </div>
-      </div>
-    </div>
+<div class="hero-container">
+  <div class="hero-content wow fadein">
+    {% if site.avatar_2 != '' %}
+    <img style="margin: 10px auto 0px; display: block;border-radius:5%;width:400px; height:400px;object-fit: contain;" src="{{site.avatar_2}}" alt="Branden Espinoza">
+    {% endif %}
+    <h1 class="text-center" style="margin-top:30px;margin-bottom:5px;">About Me</h1>
   </div>
 </div>
-Family comes first, always, but I’ve got a knack for Bitcoin and a taste for leading product teams through the chaos of fintech. Got one boot in the old world of traditional finance and the other planted firmly in the wild frontier of digital assets. I don’t just talk shop – I make things happen.
+<span style="margin-top:25px;margin-bottom:25px;">Family comes first, always, but I’ve got a knack for Bitcoin and a taste for leading product teams through the chaos of fintech. Got one boot in the old world of traditional finance and the other planted firmly in the wild frontier of digital assets. I don’t just talk shop – I make things happen.
 
-<h2 class="section-title text-center">My Journey</h2>
-<p class="section-subtitle text-center" style="margin-top:5px">Tradfi Roots... Defi Shoots</p>
+<h3 class="section-title text-center">My Journey</h3>
+<p class="section-subtitle text-center" style="margin-top:-10px; margin-bottom:20px">Tradfi Roots... Defi Shoots</p>
 
 I cut my teeth in places like **American Express FX** and **Truist**, where I learned to dance with regulators without stepping on any toes. Compliance, risk management, all that – did it, nailed it. But the itch for something bigger got me moving. Found myself deep in the decentralized finance world, driving product at **Block.one** and **Bullish.com**. Led projects across **L1 protocols**, **fund raising**, **zero-to-one apps**, **exchanges** – you name it, I’ve had my hand in it. I don’t just build products; I build companies.
 
