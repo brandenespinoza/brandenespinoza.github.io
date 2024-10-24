@@ -4,17 +4,11 @@ title: About
 permalink: /about/
 ---
 <div class="hero-container">
-
   <div class="hero-content wow fadein">
     {% if site.avatar_2 != '' %}
-    <img style="margin: 0px auto 0px; display: block;border-radius:50%;width:300px; height:300px;object-fit: contain;" src="{{site.avatar_2}}" alt="{{site.title}}">
+    <img style="margin: -50px auto 0px; display: block;border-radius:50%;width:300px; height:300px;object-fit: contain;" src="{{site.avatar_2}}" alt="{{site.title}}">
     {% endif %}
-    {% if site.intro1 != '' %}
-    <h1 class="text-center" style="margin-top:50px;">{{site.intro1}}</h1>
-    {% endif %}
-    {% if site.intro2 != '' %}
-    <h1 class="text-center">{{site.intro2}}</h1>
-    {% endif %}
+    <h1 class="text-center" style="margin-top:50px;">About Me</h1>
   </div>
 </div>
 
