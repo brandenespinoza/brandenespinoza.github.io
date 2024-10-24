@@ -7,7 +7,7 @@ permalink: /about/
 
   <div class="hero-content wow fadein">
     {% if site.avatar_2 != '' %}
-    <img style="margin: 10px auto 0px; display: block;border-radius:50%;width:300px; height:300px;object-fit: contain;" src="{{site.avatar_2}}" alt="{{site.title}}">
+    <img style="margin: 10px auto 0px; display: block;border-radius:10%;width:400px; height:400px;object-fit: contain;" src="{{site.avatar_2}}" alt="{{site.title}}">
     {% endif %}
   </div>
 </div>
@@ -16,27 +16,26 @@ I’m Branden Espinoza – family comes first, always, but I’ve got a knack fo
 
 ---
 
-## The Journey – From TradFi to DeFi  
+### My Journey – From TradFi to DeFi  
 I cut my teeth in places like **American Express FX** and **Truist**, where I learned to dance with regulators without stepping on any toes. Compliance, risk management, all that – did it, nailed it. But the itch for something bigger got me moving. Found myself deep in the decentralized finance world, driving product at **Block.one** and **Bullish.com**. Led projects across **L1 protocols**, **zero-to-one pre-seed apps**, **exchanges** – you name it, I’ve had my hand in it. I don’t just build products; I build the future.
 
 What gets me up in the morning? Working with sharp minds who don’t just talk change but make it. **No fluff** – just strategy, grit, and results.
 
 ---
 
-## When I’m Not Changing Financial Services…  
+### When I’m Not Building…  
 Life’s not just numbers and protocols. I keep things simple when the laptop’s closed – spending time with the **family**, knocking out **ribs low and slow** in the smoker, or thumbing through **heavy books** that make you think twice about the world. Oh, and if you catch me cranking up some **goofy trop rock tunes**? Don’t judge – we all got our vices.
 
 ---
 
-## What Drives Me  
-**Startups** are where the magic happens – fast, messy, and real. I thrive in environments that value **action** over endless meetings.  
-Austrian economics and **praxeology** shape my thinking – helps me keep a clear head when the pressure’s on. I want ideas **off the drawing board and into the hands of the people** who need them, simple as that.
+### What Drives Me  
+**Startups** are where the magic happens – fast, messy, and real. I thrive in environments that value **action** over endless meetings. Austrian economics and **praxeology** shape my thinking – helps me keep a clear head when the pressure’s on. I want ideas **off the drawing board and into the hands of the people** who need them, simple as that.
 
 Faith keeps me grounded. It’s a compass in all things – personal, professional, and everything in between. The **right principles guide the right outcomes**, and I carry that into every project I take on.
 
 ---
 
-## Let’s Have a Word  
+### Let’s Have a Word  
 If you’ve got a project that needs someone who understands both the **traditional finance grind** and the **wild ride of digital assets** – particularly **Bitcoin** – I’m all ears. Whether it’s a startup idea or just a good conversation, let’s connect.
 
 <div class="hero-buttons">
