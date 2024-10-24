@@ -111,4 +111,4 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
-  - { url: '/resume', text: 'Resume' }
+  - { url: 'docs/Branden-Espinoza-Product-Leader-2024.pdf', text: 'DOWLOAD CV' }
