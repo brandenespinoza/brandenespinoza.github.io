@@ -9,8 +9,8 @@ permalink: /about/
     <img style="margin: -55px auto 0px; display: block;border-radius:5%;width:300px; height:300px;object-fit: contain;" src="{{site.avatar_2}}" alt="{{site.title}}">
     {% endif %}
     <h1 class="text-center" style="margin-top:50px;margin-bottom:5px;">About Me</h1>
-    Family comes first, always, but I’ve got a knack for Bitcoin and a taste for leading product teams through the chaos of fintech. Got one boot in the old world of traditional finance and the other planted firmly in the wild frontier of digital assets. I don’t just talk shop – I make things happen.
   </div>
+  Family comes first, always, but I’ve got a knack for Bitcoin and a taste for leading product teams through the chaos of fintech. Got one boot in the old world of traditional finance and the other planted firmly in the wild frontier of digital assets. I don’t just talk shop – I make things happen.
 </div>
 
 ---
